@@ -1,0 +1,119 @@
+
+* a,ul{
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.text-container {
+    color: #a8a8a5;
+}
+
+
+/* <!-- Header Section  --> */
+
+.logo {
+    color: #384fd0;
+    font-weight: bold;
+    
+}
+
+.tryfree {
+    background-color: white;
+    color: #767bc8;
+    padding: 5px 20px;
+    border: 2px solid #767bc8;
+    border-radius: 20px;
+}
+
+/* <!-- Hero Section  --> */
+
+.tryit-input{
+    padding: 15px 40px 15px 10px;
+    border-radius: 30px;
+    border: 2px solid #767bc8;;
+}
+
+.btn-tryitfree{
+    background: #545ef8;
+    color: white;
+    padding: 15px 50px;
+    border-radius: 30px;
+
+}
+
+    /* <!-- Service Section --> */
+
+.iconbox-left {
+    background: #525ffb;
+    border-radius: 10px;
+    color: white;
+}
+
+.iconbox-mid {
+    background: #e9f0ff;
+    border-radius: 10px;
+    margin-top: 4.5rem;
+}
+
+.iconbox-right {
+    background: #ffe7a9;
+    border-radius: 10px;
+    
+}
+
+            /* <!-- Task Management Section  --> */
+
+.task-container {
+    margin-top: 150px;
+}
+
+.btn-Learnmore {
+    background: #545ef8;
+    color: white;
+    padding: 15px 50px;
+    border-radius: 30px;
+}
+
+            /* <!-- Seamless Team Section --> */
+
+.seamless-section {
+    margin-top: 150px;
+}
+
+
+            /* <!-- Trust Us Section --> */
+
+.trust-section h1{
+    color: #545ef8;
+    font-weight: bolder;
+    margin-top: 130px;
+}
+
+.trust-img {
+    margin-top: 120px;
+}
+
+            /*  <!-- Get better Section --> */
+.footer-section{
+    padding: 15px 40px 15px 10px;
+    border-radius: 30px;
+    border: 2px solid #767bc8;
+}  
+
+.tryit-input{
+    padding: 15px 80px 15px 15px;
+    border-radius: 30px;
+    border: 2px solid #ececec;
+}
+
+.tryit-input::placeholder{
+    color: #ececec;
+}
+    
+
+
+
+
+
+
